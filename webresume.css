@@ -1,0 +1,17 @@
+.background{
+	background-image: url("M.jpg");
+	height: 650px; width: 1220px;
+	
+}
+.h1{
+		text-align:center;
+		width="100%";
+		height="100%";
+		
+	}
+ .J.outset {border-style: outset;}
+
+.nav-navbar
+{ 
+	text-align:center;
+}
